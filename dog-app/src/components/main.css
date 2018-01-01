@@ -1,0 +1,9 @@
+
+
+.img-holder {position: relative;}
+.img-holder .delete {
+    position: absolute;
+    left: 1230px;
+    bottom: 30px;
+    
+}
